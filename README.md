@@ -1,11 +1,3 @@
-Com certeza! Adicionei uma nova seção bilíngue "Apoie o Projeto" com uma breve descrição e um botão de doação do PayPal, mantendo o estilo do seu `README`.
-
-**Observação:** Você precisará substituir `YourPayPalUsername` no link do botão pelo seu nome de usuário ou link de doação do PayPal.
-
-Aqui está o `README` atualizado:
-
----
-
 # 🎨 InDesign Scripts by Edivaldo Jorge
 
 Welcome to my personal collection of Adobe InDesign scripts. This repository contains useful tools that automate and simplify repetitive tasks inside InDesign, enhancing your productivity and workflow.
