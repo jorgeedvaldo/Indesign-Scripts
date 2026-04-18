@@ -17,7 +17,11 @@ Cada pasta deste repositório contém um script individual com a sua documentaç
 ```
 InDesign-Scripts/
 │
+├── ConvertTextToOutlines/
+│   └── README.md
 ├── MultiWordImporter/
+│   └── README.md
+├── SaveAllOpenDocuments/
 │   └── README.md
 └── ...
 ```
