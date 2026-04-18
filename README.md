@@ -19,6 +19,8 @@ InDesign-Scripts/
 │
 ├── ConvertTextToOutlines/
 │   └── README.md
+├── CopyStyleToAllDocuments/
+│   └── README.md
 ├── MultiWordImporter/
 │   └── README.md
 ├── SaveAllOpenDocuments/
